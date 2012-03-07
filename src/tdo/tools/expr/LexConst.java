@@ -1,6 +1,6 @@
 package tdo.tools.expr;
 
-/** CUP generated interface containing symbol constants. */
+/**** CUP generated interface containing symbol constants. */
 public interface LexConst {
   /* terminals */
 /*  public static final int DELIMITER = 9;
